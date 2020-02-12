@@ -1,2 +1,2 @@
-# data-analitycs-exam
+# data-analytics-exam
 Data Analytics Exam for Jampp
